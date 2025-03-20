@@ -22,3 +22,5 @@ The dataset contains comprehensive ride records from Rapido’s various services
 
 **Payment Methods**: (For completed rides only)
 -Amazon Pay, QR Scan, GPay, Paytm
+
+Link to the Dataset-(https://www.kaggle.com/datasets/vishaldeoprasad/bangalore-rapido-ride-services-dataset)
