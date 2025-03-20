@@ -1,6 +1,7 @@
 # Python_RapidoDatasetEDA
 
 **Title: Analysis of Rapido Ride Services in Bangalore**
+
 **Objective**:
 This project aims to analyze ride service trends, pricing structures, cancellation patterns, and customer payment preferences for Rapido in Bangalore over a two-month period. By examining key metrics such as ride duration, distance, fare components, and payment methods, this study provides insights into transportation patterns, service utilization, and ride economics.
 
